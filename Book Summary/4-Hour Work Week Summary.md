@@ -40,6 +40,7 @@ Life style design - Designing the life style you want without needing any money,
 *   Always calculate the potential downside of an action but also calculate the downside of inaction.
 
 [Hand Written Page 2](img30.jpg)
+
 *   Dream the unrealistic.
 *   You are always better than you think.
 *   Find who you are?
@@ -57,12 +58,12 @@ Life style design - Designing the life style you want without needing any money,
 
 
 [Hand Written Page 3](img35.jpg)
+
 Ask these questions thrice a day:
 
 *   Am I productive or just active?
 *   Am I inventing new things to avoid the important?
 *   What would you do if you have a heart attack and to have to work only two hours a day.
-
 *   Less is more.
 *   Always consume the data that is used immediately. Consuming the data which is used later is waste of time.
 *   Always cut down the chat to important point.
