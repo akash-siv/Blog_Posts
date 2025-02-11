@@ -4,23 +4,11 @@ date: 2025-02-10
 author: Akash
 tags:
   - Hadoop
-  - Yarm
-  - management
-  - lifestyle
-  - design
-  - personal
-  - growth
-  - work
-  - philosophy
-  - outsourcing
-  - hand_written
-  - book_summary
-summary: Key takeaways from the "4-Hour Work Week," focusing on time management, outsourcing, lifestyle design, and overcoming fear and inaction. Emphasizes time as a valuable resource and designing a fulfilling lifestyle.
-source: The 4-Hour Work Week" by Tim Ferriss
-Note Name (PDF): Book summary
+  - Yarn
+  - Big_Data
+  - Ubuntu
+summary: Step-by-Step Guide to Setup Hadoop Single Node in the local environment
 ---
-
-
 
 This guide will walk you through setting up Hadoop on an Ubuntu Server running in VirtualBox. Follow the step-by-step instructions to install prerequisites, configure your system, and get Hadoop up and running.
 
