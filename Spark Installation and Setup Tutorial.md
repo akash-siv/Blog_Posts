@@ -6,7 +6,7 @@ tags:
   - Spark
   - Hadoop
   - pyspark
-summary: This guide will walk you through installing Apache Spark, setting up environment variables, testing your installation, and running a Spark job with Hadoop and HDFS.
+summary: This guide covers installing Apache Spark and running a Spark job with Hadoop and HDFS.
 ---
 ## Prerequisites 
 - [x] **Setup VirtualBox** 
