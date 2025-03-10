@@ -11,7 +11,7 @@ summary: This guide will walk you through installing Apache Spark, setting up en
 ## Prerequisites 
 - [x] **Setup VirtualBox** 
 - [x] **Install Ubuntu Server** 
-- [ ] Install and 
+- [x] Install and Setup Hadoop
 # Spark Installation and Setup Tutorial
 
 This guide will walk you through installing Apache Spark, setting up environment variables, testing your installation, and running a Spark job with Hadoop and HDFS.
@@ -162,4 +162,4 @@ hdfs dfs -get output/pokemon_feistiest /home/hdoop/assignment_2/output
 
 ---
 
-This structured guide should help you easily follow through each step of setting up Spark and running your job with Hadoop and HDFS.
+This structured guide should help you easily follow through each step of setting up Spark and running your job with Hadoop and HDFS with YARN.
