@@ -119,7 +119,7 @@ hdfs dfs -ls /home/hdoop/assignment_2
 
 ### a. Run with YARN (Cluster Mode)
 
-Submit your Spark job with YARN as the cluster manager:
+Submit your Spark job with YARN as the Resource manager:
 
 ```bash
 spark-submit \
@@ -132,7 +132,7 @@ spark-submit \
   spark_pokemon.py
 ```
 
-### b. Fallback: Run in Local Mode
+### b. Fallback: Run in Local Mode (just for testing)
 
 If you encounter issues running in cluster mode, try local mode:
 
@@ -162,4 +162,4 @@ hdfs dfs -get output/pokemon_feistiest /home/hdoop/assignment_2/output
 
 ---
 
-This structured guide should help you easily follow through each step of setting up Spark and running your job with Hadoop and HDFS with YARN.
+This structured guide should help you easily follow through each step of setting up Spark and running your job with Hadoop and HDFS with YARN. ✨
