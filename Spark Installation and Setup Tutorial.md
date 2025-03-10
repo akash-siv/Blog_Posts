@@ -8,6 +8,10 @@ tags:
   - pyspark
 summary: This guide will walk you through installing Apache Spark, setting up environment variables, testing your installation, and running a Spark job with Hadoop and HDFS.
 ---
+## Prerequisites 
+- [x] **Setup VirtualBox** 
+- [x] **Install Ubuntu Server** 
+- [ ] Install and 
 # Spark Installation and Setup Tutorial
 
 This guide will walk you through installing Apache Spark, setting up environment variables, testing your installation, and running a Spark job with Hadoop and HDFS.
